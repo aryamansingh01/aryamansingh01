@@ -79,7 +79,7 @@ function App() {
               transition={{ delay: 0.2 }}
               className="text-gray-400 text-xl mb-4 font-light"
             >
-              Hi, I am Samarth Singh
+              Hi, I am Aryaman Singh
             </motion.h2>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
