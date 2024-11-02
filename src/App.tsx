@@ -152,7 +152,7 @@ function App() {
                 date: "2020 - 2023",
                 details: [
                   "First Class with Distinction",
-                  "Relevant Coursework: Algorithms, Data Structures, Software Engineering"
+                  "Relevant Coursework: Algorithms, Data Structures, Software Engineering",
                   "Skills Gained: Python, SQL, Statistical Analysis"
                 ]
               }
