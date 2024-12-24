@@ -13,6 +13,13 @@ const certifications = [
     instructors: "Microsoft"
   },
   {
+    title: "Snowpro Core Certified",
+    organization: "Snowflake",
+    date: "December 2024",
+    description: " demonstrating proficiency in Snowflake platform design, development, and scalable data solutions.",
+    instructors: "Snowflake"
+  },
+  {
     title: "Academy Accreditation - Databricks Lakehouse Fundamentals",
     organization: "Databricks",
     date: "September 2024",
