@@ -195,7 +195,7 @@ function App() {
                   "Applied advanced statistical analyses to evaluate platform optimizations, projecting a 10% increase in user engagement.",
                   "Implemented personalized recommendation engines, enhancing customer experience and driving higher conversion rates.",
                   "Presented key findings to cross-functional teams, enabling data-driven strategies that improved ROI by 10%."
-                ]}{
+                ]}[
                 title: "Data Analyst Intern",
                 company: "Hermes Infotech",
                 date: "May 2022 – December 2022 ",
@@ -204,7 +204,7 @@ function App() {
                   "Aggregated and refined large e-commerce datasets using Python and SQL, resolving data irregularities and cutting manual data management by 20%.",
                   "Designed interactive dashboards with Tableau and Power BI, streamlining real-time reporting and facilitating quicker decision-making for stakeholders.",
                   "Executed A/B testing to pinpoint user engagement factors, steering product refinements and raising user satisfaction."
-                ]}{
+                ]}[
                 title: "Data Analyst Intern",
                 company: "NeoDocto",
                 date: "Febuary 2022 – April 2022 ",
