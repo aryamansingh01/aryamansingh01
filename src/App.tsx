@@ -185,35 +185,39 @@ function App() {
           <h2 className="text-3xl font-light mb-12 text-center">Experience</h2>
           <div className="max-w-3xl mx-auto space-y-12">
             {[
-              {
-                title: "Data Scientist Intern",
-                company: "Hermes Infotech",
-                date: "January 2022 – July 2023 ",
-                location: "Remote",
-                description: [
-                  "Constructed time-series forecasting and classification models with scikit-learn, increasing operational efficiency by approximately 15% across multiple projects.",
-                  "Applied advanced statistical analyses to evaluate platform optimizations, projecting a 10% increase in user engagement.",
-                  "Implemented personalized recommendation engines, enhancing customer experience and driving higher conversion rates.",
-                  "Presented key findings to cross-functional teams, enabling data-driven strategies that improved ROI by 10%."
-                ]}[
-                title: "Data Analyst Intern",
-                company: "Hermes Infotech",
-                date: "May 2022 – December 2022 ",
-                location: "Remote",
-                description: [
-                  "Aggregated and refined large e-commerce datasets using Python and SQL, resolving data irregularities and cutting manual data management by 20%.",
-                  "Designed interactive dashboards with Tableau and Power BI, streamlining real-time reporting and facilitating quicker decision-making for stakeholders.",
-                  "Executed A/B testing to pinpoint user engagement factors, steering product refinements and raising user satisfaction."
-                ]}[
-                title: "Data Analyst Intern",
-                company: "NeoDocto",
-                date: "Febuary 2022 – April 2022 ",
-                location: "Remote",
-                description: [
-                  "Managed full-cycle data analysis projects, using Python and SQL to successfully deliver insights supporting acquisition and retention strategy improvements",
-                  "Collaborated with product and marketing teams to deploy data-driven solutions, improving cross-team communication and project execution"
-                ]}
-              },
+        {
+          title: "Data Scientist Intern",
+          company: "Hermes Infotech",
+          date: "January 2022 – July 2023",
+          location: "Remote",
+          description: [
+            "Constructed time-series forecasting and classification models with scikit-learn, increasing operational efficiency by approximately 15% across multiple projects.",
+            "Applied advanced statistical analyses to evaluate platform optimizations, projecting a 10% increase in user engagement.",
+            "Implemented personalized recommendation engines, enhancing customer experience and driving higher conversion rates.",
+            "Presented key findings to cross-functional teams, enabling data-driven strategies that improved ROI by 10%."
+          ]
+        },
+        {
+          title: "Data Analyst Intern",
+          company: "Hermes Infotech",
+          date: "May 2022 – December 2022",
+          location: "Remote",
+          description: [
+            "Aggregated and refined large e-commerce datasets using Python and SQL, resolving data irregularities and cutting manual data management by 20%.",
+            "Designed interactive dashboards with Tableau and Power BI, streamlining real-time reporting and facilitating quicker decision-making for stakeholders.",
+            "Executed A/B testing to pinpoint user engagement factors, steering product refinements and raising user satisfaction."
+          ]
+        },
+        {
+          title: "Data Analyst Intern",
+          company: "NeoDocto",
+          date: "February 2022 – April 2022",
+          location: "Remote",
+          description: [
+            "Managed full-cycle data analysis projects, using Python and SQL to successfully deliver insights supporting acquisition and retention strategy improvements.",
+            "Collaborated with product and marketing teams to deploy data-driven solutions, improving cross-team communication and project execution."
+          ]
+        }
               
             ].map((exp, i) => (
               <motion.div
