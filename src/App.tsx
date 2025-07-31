@@ -210,12 +210,16 @@ function App() {
         },
         {
           title: "Data Analyst Intern",
-          company: "NeoDocto",
-          date: "February 2022 – April 2022",
+          company: "WNS Global Service Private Limited",
+          date: "November 2021 – April 2022",
           location: "Remote",
           description: [
-            "Managed full-cycle data analysis projects, using Python and SQL to successfully deliver insights supporting acquisition and retention strategy improvements.",
-            "Collaborated with product and marketing teams to deploy data-driven solutions, improving cross-team communication and project execution."
+            "Data Cleaning & Anomaly Detection: Conducted extensive data cleaning and outlier analysis on 50K+ customer records using Python (Pandas, NumPy), improving overall data quality and reducing reporting inconsistencies",
+            "Automation of A/B Testing: Automated the A/B testing workflow using Statsmodels, reducing manual work, improving reproducibility, and enabling faster iterations on marketing experiments.",
+            "Engagement Analytics Dashboard: Created interactive dashboards in Tableau to visualize engagement and churn metrics,insights led to a 25% improvement in customer retention strategy effectiveness.",
+            "Exploratory Data Analysis (EDA): Performed detailed exploratory analysis on customer demographics and transaction patterns, uncovering usage trends that effectively guided marketing segmentation strategies.",
+            "Collaborative Insight Sharing: Partnered with cross-functional business teams to present findings on behavioral drivers, supporting improved customer journey optimization initiatives.",
+            "Documentation & Knowledge Transfer: Documented all critical data wrangling steps and dashboard logic in Confluence, enhancing team-wide accessibility and technical knowledge sharing."
           ]
         }
               
