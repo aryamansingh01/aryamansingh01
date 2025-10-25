@@ -188,24 +188,14 @@ function App() {
         {
           title: "Data Scientist Intern",
           company: "Hermes Infotech",
-          date: "January 2022 – July 2023",
+          date: "May 2022 – July 2023",
           location: "Remote",
           description: [
-            "Constructed time-series forecasting and classification models with scikit-learn, increasing operational efficiency by approximately 15% across multiple projects.",
-            "Applied advanced statistical analyses to evaluate platform optimizations, projecting a 10% increase in user engagement.",
-            "Implemented personalized recommendation engines, enhancing customer experience and driving higher conversion rates.",
-            "Presented key findings to cross-functional teams, enabling data-driven strategies that improved ROI by 10%."
-          ]
-        },
-        {
-          title: "Data Analyst Intern",
-          company: "Hermes Infotech",
-          date: "May 2022 – December 2022",
-          location: "Remote",
-          description: [
-            "Aggregated and refined large e-commerce datasets using Python and SQL, resolving data irregularities and cutting manual data management by 20%.",
-            "Designed interactive dashboards with Tableau and Power BI, streamlining real-time reporting and facilitating quicker decision-making for stakeholders.",
-            "Executed A/B testing to pinpoint user engagement factors, steering product refinements and raising user satisfaction."
+            "Processed and optimized e-commerce datasets using Python and SQL, automating data validations, and reducing offline data correction efforts by 20%, improving operational efficiency.",
+            "Designed real-time interactive dashboard in Tableau/Power BI, reducing stakeholder reporting time by 30% through automated visualization and dynamic filtering.", 
+            "Conducted A/B testing using statistical significance analysis (Pandas, SciPy), identifying impactful changes in user engagement, improving click-through rates by 10%.",
+            "Analyzed purchase patterns and implemented collaborative filtering-based recommendation mechanism, increasing up selling opportunity by 12%.",
+            "Developed data-driven strategies using predictive analytics and machine learning(Scikit-learn), enabling a 10% increase ROI"
           ]
         },
         {
@@ -253,8 +243,8 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {[
               {
-                title: "Customer Churn Prediction Using Apache Spark on Databricks",
-                description: "Developed and deployed a scalable data pipeline using Apache Spark on Databricks",
+                title: "Portfolio Risk Assessment & Optimization Engine",
+                description: "Built a Python-powered analytics engine to optimize portfolio weights, simulate VaR/ES risk metrics, and visualize efficient frontiers for data-driven investment decisions.",
                 link: "https://github.com/aryamansingh01?tab=repositories"
               },
               {
