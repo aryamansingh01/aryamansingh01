@@ -27,6 +27,20 @@ const certifications = [
     instructors: "Databricks"
   },
   {
+    title: "Investment Foundation Certificate",
+    organization: "CFA Institute",
+    date: "October 2025",
+    description: "Demonstrated proficiency in core financial concepts, investment principles, and ethical standards of global markets.",
+    instructors: "AWS"
+  },
+  {
+    title: "Finance & Quantitative Modeling Specialization (University of Pennsylvania)",
+    organization: "Coursera",
+    date: "August 2025",
+    description: "Achieved mastery in financial modeling, valuation, and quantitative analysis for data-driven investment decisions.",
+    instructors: "AWS"
+  },
+  {
     title: "Academy Accreditation - Databricks Fundamentals",
     organization: "Databricks",
     date: "September 2024",
