@@ -243,6 +243,11 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {[
               {
+                title: "MarketLens, a comprehensive S&P 500 intelligence platform",
+                description: "End-to-end S&P 500 market intelligence platform (ETL + Power BI) analyzing 501 stocks across 11 sectors with real-time dashboards and risk profiling.",
+                link: "https://github.com/aryamansingh01?tab=repositories"
+              },
+              {
                 title: "Portfolio Risk Assessment & Optimization Engine",
                 description: "Built a Python-powered analytics engine to optimize portfolio weights, simulate VaR/ES risk metrics, and visualize efficient frontiers for data-driven investment decisions.",
                 link: "https://github.com/aryamansingh01?tab=repositories"
