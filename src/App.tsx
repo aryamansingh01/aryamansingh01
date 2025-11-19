@@ -243,6 +243,11 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {[
               {
+                title: "Customer Segmentation & RFM Analytics Suite",
+                description: "Advanced customer segmentation and RFM analysis (Python + clustering) on 300K+ customers with actionable insights, cluster-specific business recommendations, and revenue optimization dashboards.",
+                link: "https://github.com/aryamansingh01?tab=repositories"
+              },
+              {
                 title: "MarketLens, a comprehensive S&P 500 intelligence platform",
                 description: "End-to-end S&P 500 market intelligence platform (ETL + Power BI) analyzing 501 stocks across 11 sectors with real-time dashboards and risk profiling.",
                 link: "https://github.com/aryamansingh01?tab=repositories"
