@@ -241,7 +241,16 @@ function App() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-light mb-12 text-center">Projects</h2>
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
-            {[
+            {[{
+                title: "Sentiment-Driven Algorithmic Trading System",
+                description: "Sentiment-driven algorithmic trading system (Databricks + Delta Lake + FinBERT) on 800+ financial articles and 3 tech stocks, generating 250+ AI-powered trading signals with confidence scores, correlation-based ticker discovery over 7,000+ US equities, and a production-grade backtesting and risk framework for signal validation and portfolio decision support.",
+                link: "https://github.com/aryamansingh01?tab=repositories"
+              },
+              {
+                title: "IntelliWealth: AI Powered Portfolio Manager",
+                description: "Reinforcement learning-based portfolio optimization engine (PPO + custom Gym + Streamlit) executing 500k+ timestep backtests across 10+ asset portfolios, delivering 21.52% returns with 1.15 Sharpe ratio, 56% alpha over baselines, and real-time risk and allocation analytics for data-driven investment decision support",
+                link: "intelliwealth.streamlit.app"
+              },
               {
                 title: "Customer Segmentation & RFM Analytics Suite",
                 description: "Advanced customer segmentation and RFM analysis (Python + clustering) on 300K+ customers with actionable insights, cluster-specific business recommendations, and revenue optimization dashboards.",
