@@ -243,7 +243,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {[{
                 title: "AI-Powered Option Pricing & Delta-Hedged Backtesting",
-                description: "Neural option pricer (MLP/LSTM/GRU) on minute-level US options (~4K underlyings, since 2012) with leakage-safe training, Black–Scholes benchmarking, and a delta-neutral backtester for execution-aware mispricing trades under realistic frictions."
+                description: "Neural option pricer (MLP/LSTM/GRU) on minute-level US options (~4K underlyings, since 2012) with leakage-safe training, Black–Scholes benchmarking, and a delta-neutral backtester for execution-aware mispricing trades under realistic frictions.",
                 link: "https://github.com/aryamansingh01?tab=repositories"
               },
               {
