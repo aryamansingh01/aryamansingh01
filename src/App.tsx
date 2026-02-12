@@ -242,6 +242,11 @@ function App() {
           <h2 className="text-3xl font-light mb-12 text-center">Projects</h2>
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             {[{
+                title: "AI-Powered Option Pricing & Delta-Hedged Backtesting",
+                description: "Neural option pricer (MLP/LSTM/GRU) on minute-level US options (~4K underlyings, since 2012) with leakage-safe training, Black–Scholes benchmarking, and a delta-neutral backtester for execution-aware mispricing trades under realistic frictions."
+                link: "https://github.com/aryamansingh01?tab=repositories"
+              },
+              {
                 title: "Sentiment-Driven Algorithmic Trading System",
                 description: "Sentiment-driven algorithmic trading system (Databricks + Delta Lake + FinBERT) on 800+ financial articles and 3 tech stocks, generating 250+ AI-powered trading signals with confidence scores, correlation-based ticker discovery over 7,000+ US equities, and a production-grade backtesting and risk framework for signal validation and portfolio decision support.",
                 link: "https://github.com/aryamansingh01?tab=repositories"
